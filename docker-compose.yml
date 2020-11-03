@@ -1,0 +1,32 @@
+version: '3.6'
+
+networks:
+  default:
+    name: dimas-global
+
+services:
+  dimas-php:
+    build:
+      context: .
+      dockerfile: ./docker/php/Dockerfile
+    image: php:7.2.30-fpm-alpine
+    ports:
+      - 9000:9000
+    volumes:
+      - .:/app
+#    depends_on:
+#      - dimas-mysql
+#  dimas-mysql:
+#    build:
+#      context: .
+#      dockerfile: ./docker/mysql/Dockerfile
+#    image: mariadb:10.1
+#  dimas-nginx:
+#    build:
+#      context: .
+#      dockerfile: ./docker/nginx/Dockerfile
+#    image: nginx:1.13.10-alpine
+#    ports:
+#      - 80:80
+#    depends_on:
+#      - dimas-php
