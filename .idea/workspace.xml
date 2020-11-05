@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d598db27-9227-4940-a2dd-f8e27746086b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FamilyINF/Entrance.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dimas.conf" beforeDir="false" afterPath="$PROJECT_DIR$/dimas.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainDirectory/TestRoom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainDirectory/test.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,8 @@
       <workItem from="1604350158167" duration="67000" />
       <workItem from="1604423298927" duration="6436000" />
       <workItem from="1604567849513" duration="2411000" />
+      <workItem from="1604588792051" duration="1811000" />
+      <workItem from="1604596236843" duration="609000" />
     </task>
     <servers />
   </component>
@@ -80,6 +81,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="390" y="11" key="#PHP/0.0.1366.738@0.0.1366.738" timestamp="1604568441254" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1604596057863">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604596057863" />
     <state x="460" y="281" key="ComposerInitDialogKey" timestamp="1604424391882">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
