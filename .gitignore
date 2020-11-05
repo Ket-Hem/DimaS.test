@@ -1,2 +1,9 @@
 .docker/*
-git
+.idea/*
+
+*.conf
+*.war
+*.jar
+*.ear
+
+

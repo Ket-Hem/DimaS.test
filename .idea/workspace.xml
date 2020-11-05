@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d598db27-9227-4940-a2dd-f8e27746086b" name="Default Changelist" comment="" />
+    <list default="true" id="d598db27-9227-4940-a2dd-f8e27746086b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dimas.conf" beforeDir="false" afterPath="$PROJECT_DIR$/dimas.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +23,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jWFccIWAmcIzrvDVWFerffHHM8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -53,7 +63,8 @@
       <workItem from="1604181905818" duration="577000" />
       <workItem from="1604311657500" duration="3635000" />
       <workItem from="1604350158167" duration="67000" />
-      <workItem from="1604423298927" duration="4745000" />
+      <workItem from="1604423298927" duration="6436000" />
+      <workItem from="1604567849513" duration="2411000" />
     </task>
     <servers />
   </component>
@@ -61,14 +72,14 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="434" y="192" key="#Notifications" timestamp="1604005507440">
+    <state x="434" y="192" key="#Notifications" timestamp="1604568398537">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="434" y="192" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1604005507440" />
-    <state x="390" y="11" key="#PHP" timestamp="1603985092416">
+    <state x="434" y="192" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1604568398537" />
+    <state x="390" y="11" key="#PHP" timestamp="1604568441254">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="390" y="11" key="#PHP/0.0.1366.738@0.0.1366.738" timestamp="1603985092416" />
+    <state x="390" y="11" key="#PHP/0.0.1366.738@0.0.1366.738" timestamp="1604568441254" />
     <state x="460" y="281" key="ComposerInitDialogKey" timestamp="1604424391882">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
