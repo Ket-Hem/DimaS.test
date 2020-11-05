@@ -7,6 +7,8 @@
 <body>
 <h3>Hello owner! Nice to see you. Keep working! :D</h3>
 <?php
+
+echo "\nHi";
 //echo "Сьогодні: ".date("d");
 
 
