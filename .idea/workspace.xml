@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d598db27-9227-4940-a2dd-f8e27746086b" name="Default Changelist" comment="">
+    <list default="true" id="d598db27-9227-4940-a2dd-f8e27746086b" name="Default Changelist" comment="creating direction FamilyINF and file entrance.php">
+      <change afterPath="$PROJECT_DIR$/EnterGate.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FamilyINF/entrance.php" beforeDir="false" afterPath="$PROJECT_DIR$/FamilyINF/entrance.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FamilyINF/entrance.php" beforeDir="false" afterPath="$PROJECT_DIR$/enterGate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +37,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -42,7 +45,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jWFccIWAmcIzrvDVWFerffHHM8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,12 +56,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\VirtualServer\projects\test" />
       <recent name="D:\VirtualServer\projects\test\MainDirectory" />
     </key>
   </component>
@@ -82,7 +89,9 @@
       <workItem from="1604567849513" duration="2411000" />
       <workItem from="1604588792051" duration="1811000" />
       <workItem from="1604596236843" duration="1850000" />
-      <workItem from="1604605336692" duration="615000" />
+      <workItem from="1604605336692" duration="2159000" />
+      <workItem from="1604655270352" duration="5030000" />
+      <workItem from="1604744472888" duration="1631000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit for test purpose">
       <created>1604597193381</created>
@@ -91,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604597193381</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="creating direction FamilyINF and file entrance.php">
+      <created>1604606052452</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604606052452</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,10 +123,12 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit for test purpose" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second commit for test purpose" />
+    <MESSAGE value="creating direction FamilyINF and file entrance.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating direction FamilyINF and file entrance.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="434" y="192" key="#Notifications" timestamp="1604568398537">
@@ -121,26 +139,38 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="390" y="11" key="#PHP/0.0.1366.738@0.0.1366.738" timestamp="1604568441254" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1604597185056">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1604605992883">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604597185056" />
-    <state x="460" y="281" key="ComposerInitDialogKey" timestamp="1604424391882">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604605992883" />
+    <state x="460" y="281" key="ComposerInitDialogKey" timestamp="1604657277378">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="460" y="281" key="ComposerInitDialogKey/0.0.1366.738@0.0.1366.738" timestamp="1604424391882" />
-    <state x="518" y="292" key="NewPhpFileDialog" timestamp="1603964075525">
+    <state x="460" y="281" key="ComposerInitDialogKey/0.0.1366.738@0.0.1366.738" timestamp="1604657277378" />
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog" timestamp="1604657432547">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="518" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1603964075525" />
+    <state x="92" y="92" width="1182" height="554" key="DiffContextDialog/0.0.1366.738@0.0.1366.738" timestamp="1604657432547" />
+    <state x="518" y="292" key="NewPhpFileDialog" timestamp="1604657318072">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="518" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1604657318072" />
     <state x="184" y="13" key="SettingsEditor" timestamp="1604003266851">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604003266851" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1604597192756">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1604606060997">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604597192756" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604606060997" />
+    <state x="440" y="102" key="VcsDiffUtil.ChangesDialog" timestamp="1604657143567">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="440" y="102" key="VcsDiffUtil.ChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1604657143567" />
+    <state x="500" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604656605169">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="500" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1604656605169" />
     <state x="370" y="167" key="run.anything.popup" timestamp="1604065013026">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
