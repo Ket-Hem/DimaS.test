@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d598db27-9227-4940-a2dd-f8e27746086b" name="Default Changelist" comment="creating direction FamilyINF and file entrance.php">
-      <change afterPath="$PROJECT_DIR$/EnterGate.css" afterDir="false" />
+    <list default="true" id="d598db27-9227-4940-a2dd-f8e27746086b" name="Default Changelist" comment="Finished head with additional &lt;meta&gt; lines">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FamilyINF/entrance.php" beforeDir="false" afterPath="$PROJECT_DIR$/enterGate.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EnterGate.css" beforeDir="false" afterPath="$PROJECT_DIR$/EnterGate.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enterGate.php" beforeDir="false" afterPath="$PROJECT_DIR$/enterGate.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,8 @@
       <workItem from="1604596236843" duration="1850000" />
       <workItem from="1604605336692" duration="2159000" />
       <workItem from="1604655270352" duration="5030000" />
-      <workItem from="1604744472888" duration="1631000" />
+      <workItem from="1604744472888" duration="8188000" />
+      <workItem from="1604829402294" duration="7546000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit for test purpose">
       <created>1604597193381</created>
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604606052452</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finished head with additional &lt;meta&gt; lines">
+      <created>1604746900411</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604746900411</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,7 +135,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit for test purpose" />
     <MESSAGE value="creating direction FamilyINF and file entrance.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="creating direction FamilyINF and file entrance.php" />
+    <MESSAGE value="Finished head with additional &lt;meta&gt; lines" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished head with additional &lt;meta&gt; lines" />
   </component>
   <component name="WindowStateProjectService">
     <state x="434" y="192" key="#Notifications" timestamp="1604568398537">
@@ -159,10 +167,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1604003266851" />
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1604606060997">
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2" timestamp="1604773867717">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604606060997" />
+    <state x="275" y="101" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604773867717" />
     <state x="440" y="102" key="VcsDiffUtil.ChangesDialog" timestamp="1604657143567">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
