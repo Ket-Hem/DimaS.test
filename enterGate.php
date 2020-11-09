@@ -23,23 +23,52 @@
             text-align: center;
             font-family: Calibri;
             font-size: 150%;
+        img{
+            width:244px;
+            height:100%;
+        }
+        a:link {
+            color: green;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        a:visited {
+            color: darkblue;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        a:hover {
+            color: red;
+            background-color: transparent;
+            text-decoration: none;
+        }
+        a:active {
+            color: yellow;
+            background-color: transparent;
+            text-decoration: none;
         }
     </style>
     <title>EnterGate</title>
 </head>
-<!-- Забрати потім колір фону сторінк і зробити body в CSS-->
 <body>
     <h1>Hello owner! Nice to see you. Keep working! :D</h1>
+<pre>
+It matters not how strait the gate,
+How charged with punishments the scroll,
+I am the master of my fate:
+I am the captain of my soul.</pre>
 
-    <pre>
-        It matters not how strait the gate,
-        How charged with punishments the scroll,
-        I am the master of my fate:
-        I am the captain of my soul.</pre>
-
-    <!-- Картинка вітряка-->
-    <img src="https://cdn.pixabay.com/photo/2020/11/04/19/22/windmill-5713337_960_720.jpg" alt="A windmill" width="500" height="400">
-    <!--<img src="https://drive.google.com/drive/u/0/folders/0B4wdOSbuqKGJNnBMYUhhQnNZazQ/85.jpg" alt="Florence temple" width="500" legth="400"> -->
+    <!-- Added a link with button for translation-->
+    <p>
+        <hr>If you need help with translation, you can use a translator
+        <a href="https://translate.google.com" title="gOOgle translate" target="_blank">Google Translate<br></a>
+    </p>
+    <button type="button" onclick="alert('Hello world!')">Click Me!</button>
+    <button onclick="document.location='index.php'">Index</button>
+   <br><img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/William_Ernest_Henley_Vanity_Fair_1892-11-26.jpg" alt="William Ernest Henley Vanity Fair" usemap="#PoetMap" >
+    <map name="PoetMap">
+        <area shape="rect" coords="2,2,242,404" alt="PoetMap" target="_blank" title="Wikipedia page of Invictus poem" href="https://en.wikipedia.org/wiki/Invictus">
+    </map>
 
 
     <?php
@@ -47,6 +76,6 @@
 
 
 
-?>
+    ?>
 </body>
 </html>
